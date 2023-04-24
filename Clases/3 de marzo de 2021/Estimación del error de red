@@ -1,0 +1,10 @@
+ESTIMACIÓN DEL ERROR EN UNA RED NEURONAL
+Errores que ya hemos visto:
+· ERROR MEDIDO EN LA MUESTRA DE AJUSTE.
+· ERROR MEDIDO EN LA MUESTRA DE VALIDACIÓN.
+· ERROR MEDIDO EN LA MUESTRA DE LA PRUEBA FINAL.
+
+Nuevos errores:
+No hacemos una única prueba, sino que hacemos muchas:
+· ESTIAMDOR BOOTSTRAP: Muestreo con reemplazo. Los puntos pueden estar repetidos.
+

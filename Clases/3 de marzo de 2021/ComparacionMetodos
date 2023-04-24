@@ -1,0 +1,14 @@
+¿Hasta donde llega el método?
+LBFGS
+3
+SGD
+4
+
+Comparación de rapidez y número de iteraciones.
+LBFGS y SGD son iguales
+
+Consistencia del método
+SGD es más consistente que LBFGS
+
+
+SGD mejora con mayor lr y LBFGS no
